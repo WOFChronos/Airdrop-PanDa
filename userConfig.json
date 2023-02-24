@@ -1,17 +1,11 @@
 {
-    "name": "Smart Platform by Mirror World",
-    "symbol": "SPMW",
-    "description": "Smart Platform by Mirror World offers multi-chain social authentication, MPC wallet solutions, and in-app marketplace solutions, all with 0 upfront cost.",
-    "image": "https://metadata-assets.mirrorworld.fun/sdk/images/mw_logo.png",
-    "seller_fee_basis_points": 425,
-    "collection": {
-        "name": "Smart Platform by Mirror World",
-        "family": "Smart Platform by Mirror World"
-    },
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common"
-        }
-    ]
+  "collections": [
+    "EKApagXnNpL39Hj9bhqCftrNDHErX5PQQATP8XnhdTYs"
+  ],
+  "network": "mainnet",
+  "xApiKey": "mw_yeqjbezRRwPtrzpJtf5jXSZB9hMd9tAMLXi",
+  "serviceFee": 10,
+  "currencyOption": "SOL",
+  "name": "Airdrop PanDa - Event",
+  "logo": "https://collections.mirrorworld.fun/1677234830786-NFT-panda.jpg"
 }
